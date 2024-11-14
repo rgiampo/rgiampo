@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning THREE.js and Blender
+🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning Electron.js and React
 
 
 ## 🌐 Socials:
